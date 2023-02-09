@@ -1,7 +1,7 @@
 #  Corner Stitching
 organize the space tiles as maximal horizontal stripes.  
 
-Because there isn't enough time so I use vector to replace Corner Stitching.  
+Because there isn't enough time so I use vector to replace Corner Stitching method.  
 
 **How to compile and execute:**
 
