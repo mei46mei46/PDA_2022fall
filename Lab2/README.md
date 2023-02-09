@@ -1,8 +1,7 @@
 #  Fixed Outline Floorplanning
 write a fixed-outline floorplanner that can handle hard macros  
 
-**What method I choose : **
-    B* tree and simulated annealing  
+**What method I choose :** B* tree and simulated annealing  
 
 **How to compile and execute:**
 
