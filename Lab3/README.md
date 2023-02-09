@@ -1,7 +1,7 @@
 #  Multi-chip Partition and Placement
 partition all standard cells into two groups and legalize them without overlap
 
-**What method I choose :** FM partition and Abacus  
+**method :** FM partition and Abacus  
 
 **How to compile and execute:**
 
